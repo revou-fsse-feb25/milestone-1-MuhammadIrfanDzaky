@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 ## Contact
 
 For any inquiries or further information, please use the contact form on the website or reach out via:
-- **Email:** [irfndzky@gmail.com](mailto:your.email@example.com)
+- **Email:** [irfndzky@gmail.com](mailto:irfndzky@gmail.com)
 - **GitHub:** [github.com/MuhammadIrfanDzaky](https://github.com/MuhammadIrfanDzaky)
 - **LinkedIn:** [linkedin.com/in/mhdirfndzky](https://www.linkedin.com/in/mhdirfndzky/)
 
