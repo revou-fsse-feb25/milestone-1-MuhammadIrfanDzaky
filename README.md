@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This repository contains the source co
 
 ## Live Demo
 
-Check out the live version of the portfolio here: [Muhammad Irfan Dzaky | Software Engineer](https://revou-fsse-feb25.github.io/milestone-1-MuhammadIrfanDzaky/)
+Check out the live version of my portfolio here: [Muhammad Irfan Dzaky | Software Engineer](https://revou-fsse-feb25.github.io/milestone-1-MuhammadIrfanDzaky/)
 
 ## Project Overview
 
