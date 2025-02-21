@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio website! This repository contains the source code for my professional portfolio, showcasing my work as a software engineer.
 
+## Live Demo
+
+Check out the live version of the portfolio here: [Muhammad Irfan Dzaky | Software Engineer](https://revou-fsse-feb25.github.io/milestone-1-MuhammadIrfanDzaky/)
+
 ## Project Overview
 
 This portfolio website is a personal project that showcases my work as a Software Engineer. It highlights my background, skills, and projects, while providing an easy way for visitors to get in touch with me.
@@ -18,8 +22,6 @@ This portfolio website is a personal project that showcases my work as a Softwar
 
 - **HTML5 & CSS3:** For semantic markup and modern, responsive styling.
 - **JavaScript:** For enhancing interactivity and animations.
-- **Google Fonts:** Montserrat and Open Sans for typography.
-- **Flexbox & Grid Layouts:** For a robust and responsive layout.
 
 ## Getting Started
 
@@ -44,7 +46,7 @@ To run this project locally, follow these steps:
 ## Contact
 
 For any inquiries or further information, please use the contact form on the website or reach out via:
-- **Email:** [irfndzky@gmail.com](mailto:irfndzky@gmail.com)
+- **Email:** [irfndzky@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=irfndzky@gmail.com&su=Collaboration&body=Lets%20Collab!)
 - **GitHub:** [github.com/MuhammadIrfanDzaky](https://github.com/MuhammadIrfanDzaky)
 - **LinkedIn:** [linkedin.com/in/mhdirfndzky](https://www.linkedin.com/in/mhdirfndzky/)
 
