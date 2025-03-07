@@ -31,21 +31,24 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/revou-fsse-feb25/milestone-1-MuhammadIrfanDzaky.git
+   ```
 
+2. **Change the directory:**
+   ```
    cd milestone-1-MuhammadIrfanDzaky
    ```
 
-2. **Open the Project:**
+3. **Open the Project:**
 
    Open the `index.html` file in your preferred web browser or use a live server extension (like Live Server in VS Code) for real-time updates.
 
-3. **Customize:**
+4. **Customize:**
 
    Modify the content, images, and styles in the CSS and HTML files to reflect your personal information and projects.
 
 ## Contact
 
-For any inquiries or further information, please use the contact form on the website or reach out via:
+For any inquiries or further information, please reach out to me via:
 - **Email:** [irfndzky@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=irfndzky@gmail.com&su=Collaboration&body=Lets%20Collab!)
 - **GitHub:** [github.com/MuhammadIrfanDzaky](https://github.com/MuhammadIrfanDzaky)
 - **LinkedIn:** [linkedin.com/in/mhdirfndzky](https://www.linkedin.com/in/mhdirfndzky/)
